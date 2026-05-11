@@ -12,19 +12,20 @@ All original credits belong to the original mod creators and communities. -> htt
 
 ## Installation
 
-1. Download the .rar files from /files
-2. Create a folder on the desktop named something like "BO2 Mods" and extract the downloaded .rar files into that folder.
-3. Install and launch Plutonium T6 (Black Ops 2 Multiplayer) like normal at least once to generate the T6 files.
-4. Press "Win + R" on your keyboard and type "%localappdata%". Click Ok. Navigate to the "Local" folder. Find "Plutonium", then "storage", then T6. This is the folder where you'll be putting the mods.
-5. Create a folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m".
-6. Back in the "BO2 Mods" folder on the desktop, open up the extracted "Jiggy V4.3" folder and copy the entire "maps" folder into the Plutonium\storage\t6 folder.
-7. Now navigate to the "mods" folder inside of Plutonium/storage/t6, and paste the extracted "mp_leetin_pub" folder into it.
-8. The mod files are now loaded into the game's Plutonium folder. Load the game like normal.
-9. On BO2's main menu, select "ONLINE", then "MODS" and you shoudl see the newly installed "@leetinservers". Load it.
-10. You should immediately notice the Leetin servers overlay for the game, which changes the background and makes the text purple. Try going to "Create a Class" and navigate through the various weapons to find the mod's custom weapons are loading.
-11. The first time you load the mod, your account's progess may reset. This should only happen when the mod is loaded. If you want max prestige again, open up plutonium's console command window by typing ` and type "unlockall". Hit enter.
-12. Launch a custom game. When the game starts, select a class and you'll see the mod menu's custom introduction message. Hit Aim + Knife to open the Mod Menu.
-13. You now have a trickshotting mod menu and custom guns from various CoD games. Enjoy.
+1. Download the first mod file, the "Jiggy V4.3 Vapour.rar" file from /mod files
+2. Download the second mod file from the MediaFire link: https://www.mediafire.com/folder/45679pfigcfjo/mp_leetin_pub
+3. Create a folder on the desktop named something like "BO2 Mods" and extract the downloaded .rar files into that folder.
+4. Install and launch Plutonium T6 (Black Ops 2 Multiplayer) like normal at least once to generate the T6 files.
+5. Press "Win + R" on your keyboard and type "%localappdata%". Click Ok. Navigate to the "Local" folder. Find "Plutonium", then "storage", then T6. This is the folder where you'll be putting the mods.
+6. Create a folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m".
+7. Back in the "BO2 Mods" folder on the desktop, open up the extracted "Jiggy V4.3" folder and copy the entire "maps" folder into the Plutonium\storage\t6 folder.
+8. Now navigate to the "mods" folder inside of Plutonium/storage/t6, and paste the extracted "mp_leetin_pub" folder into it.
+9. The mod files are now loaded into the game's Plutonium folder. Load the game like normal.
+10. On BO2's main menu, select "ONLINE", then "MODS" and you shoudl see the newly installed "@leetinservers". Load it.
+11. You should immediately notice the Leetin servers overlay for the game, which changes the background and makes the text purple. Try going to "Create a Class" and navigate through the various weapons to find the mod's custom weapons are loading.
+12. The first time you load the mod, your account's progess may reset. This should only happen when the mod is loaded. If you want max prestige again, open up plutonium's console command window by typing ` and type "unlockall". Hit enter.
+13. Launch a custom game. When the game starts, select a class and you'll see the mod menu's custom introduction message. Hit Aim + Knife to open the Mod Menu.
+14. You now have a trickshotting mod menu and custom guns from various CoD games. Enjoy.
 
 
 ## Screenshots
