@@ -33,6 +33,5 @@ All original credits belong to the original mod creators and communities. -> htt
 
 ## Credits
 
-- XYZ community
-- XYZ server
-- XYZ mod creator
+- All credit for the amazing custom weapons mods goes to Leetin Nation (@leetinservers on X). If you want to join their discord server, the link is on their X page. They still actively host their servers as of the writing of this post in 2026, and I recommend trying to join one of their trickshot lobbies out sometime on BO2 and testing out their actual mod menu. Make sure NOT to have the jiggy mod menu loaded into your T6 folder if you do, as you might get banned if you're using mod menus while playing online.
+-All credit for the mod menu goes to the Vapour Scripts team at https://vapourscripts.com/. You can also find their discord on their website, and follow them on Youtube. Their Youtube tutorials are very straightforward, and if you browse their website you'll find various other mod menus for different CoDs as well.
