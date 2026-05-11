@@ -12,8 +12,8 @@ All original credits belong to the original mod creators and communities. -> htt
 
 ## Installation
 
-1. Download the ZIP files from /files
-2. Extract them to a folder on the desktop named "BO2 mods", or something memorable
+1. Download the .rar files from /files
+2. Create a folder on the desktop named something like "BO2 Mods" and extract the downloaded .rar files into that folder.
 3. Install and launch Plutonium T6 (Black Ops 2 Multiplayer) like normal at least once to generate the T6 files.
 4. Press "Win + R" on your keyboard and type "%localappdata%". Click Ok. Navigate to the "Local" folder. Find "Plutonium", then "storage", then T6. This is the folder where you'll be putting the mods.
 5. Create a folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m".
