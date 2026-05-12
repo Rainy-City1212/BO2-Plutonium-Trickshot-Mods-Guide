@@ -12,12 +12,13 @@ All original credits belong to the original mod creators and communities. -> htt
 
 ## Installation
 
-1. Download the first mod file, the "Jiggy V4.3 Vapour.rar" file from /mod files in this Github repository.
-2. Download the second mod file from the MediaFire link: https://www.mediafire.com/folder/45679pfigcfjo/mp_leetin_pub ![MediaFire Download Page](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/e520f8d5ca110b9b421d5d029e0ad4cbce5bc290/screenshots/16%20media%20fire%20link.png?raw=true)
+1. Create a folder on the desktop called "BO2 Mods".
+2. Download the first mod file, the "Jiggy V4.3 Vapour.rar" file from /mod files in this Github repository.
+3. Download the second mod file from the MediaFire link: https://www.mediafire.com/folder/45679pfigcfjo/mp_leetin_pub ![MediaFire Download Page](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/e520f8d5ca110b9b421d5d029e0ad4cbce5bc290/screenshots/16%20media%20fire%20link.png?raw=true)
 4. Install and launch Plutonium T6 (Black Ops 2 Multiplayer) like normal and go the the main menu at least once (generates t6 folder and files).
 5. Press "Win + R" on your keyboard and type "%localappdata%". Click Ok.
 6. Navigate to the "Local" folder. Find "Plutonium", then "storage", then T6. This is the folder where you'll be putting the mods.
-7. Create a folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m".
+   Indide of the t6 folder, create a new folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m".
 8. Back in the "BO2 Mods" folder on the desktop, open up the extracted "Jiggy V4.3" folder and copy the entire "maps" folder into the Plutonium\storage\t6 folder.
 9. Now navigate to the "mods" folder inside of Plutonium/storage/t6, and paste the extracted "mp_leetin_pub" folder into it.
 10. The mod files are now loaded into the game's Plutonium folder. Load the game like normal.
