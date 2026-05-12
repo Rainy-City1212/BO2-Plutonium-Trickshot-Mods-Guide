@@ -12,7 +12,7 @@ All original credits belong to the original mod creators and communities. -> htt
 
 ## Installation
 
-1. Create a folder on the desktop called "BO2 Mods".
+1. Create a folder on the desktop called "BO2 Mods". (https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/476f8bdc2a76dd5f9c27f8dcc298b41b1aaa1d64/screenshots/1%20BO2%20mods%20folder.png?raw=true)
 2. Download the first mod file, the "Jiggy V4.3 Vapour.rar" file from /mod files in this Github repository.
 3. Download the second mod file from the MediaFire link: https://www.mediafire.com/folder/45679pfigcfjo/mp_leetin_pub ![MediaFire Download Page](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/e520f8d5ca110b9b421d5d029e0ad4cbce5bc290/screenshots/16%20media%20fire%20link.png?raw=true)
 4. Install and launch Plutonium T6 (Black Ops 2 Multiplayer) like normal and go the the main menu at least once (generates t6 folder and files).
