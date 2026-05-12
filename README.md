@@ -1,6 +1,6 @@
 # BO2 Plutonium Trickshot Setup Guide
 
-This repository exists to help simplify installation for BO2 Plutonium trickshot/custom gun setups.
+This repository exists to help simplify installation for BO2 Plutonium trickshotting mod menu/custom gun mod setups.
 
 All original credits belong to the original mod creators and communities. -> https://vapourscripts.com/plutonium & https://x.com/leetinservers
 
