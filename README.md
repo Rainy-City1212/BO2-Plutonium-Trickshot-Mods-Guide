@@ -2,7 +2,7 @@
 
 This repository exists to help simplify installation for BO2 Plutonium trickshotting mod menu/custom gun mod setups.
 
-This tutorial is for custom game trickshotting purposes only. using these mods in a public match can cause your Plutonium account to be banned.
+Disclaimer: This tutorial is for custom game trickshotting purposes only. Using these mods in a public match could cause your Plutonium account to be banned.
 
 All original credits belong to the original mod creators and communities. -> https://vapourscripts.com/plutonium & https://x.com/leetinservers
 
