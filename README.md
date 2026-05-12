@@ -13,7 +13,7 @@ All original credits belong to the original mod creators and communities. -> htt
 ## Installation
 
 1. Download the first mod file, the "Jiggy V4.3 Vapour.rar" file from /mod files in this Github repository.
-2. Download the second mod file from the MediaFire link: https://www.mediafire.com/folder/45679pfigcfjo/mp_leetin_pub ![
+2. Download the second mod file from the MediaFire link: https://www.mediafire.com/folder/45679pfigcfjo/mp_leetin_pub ![16 media fire link}(image-link)
 3. Create a folder on the desktop named something like "BO2 Mods" and extract the downloaded .rar files into that folder.
 4. Install and launch Plutonium T6 (Black Ops 2 Multiplayer) like normal at least once to generate the T6 files.
 5. Press "Win + R" on your keyboard and type "%localappdata%". Click Ok. Navigate to the "Local" folder. Find "Plutonium", then "storage", then T6. This is the folder where you'll be putting the mods.
