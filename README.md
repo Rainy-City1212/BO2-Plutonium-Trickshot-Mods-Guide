@@ -12,6 +12,11 @@ All original credits belong to the original mod creators and communities. -> htt
 - Installation screenshots
 - Basic setup instructions
 
+## Requirements:
+- BO2 Multiplayer working normally first
+- Plutonium T6 installed
+- WinRAR or 7-Zip
+
 ## Installation
 
 1. Create a folder on the desktop called "BO2 Mods".
