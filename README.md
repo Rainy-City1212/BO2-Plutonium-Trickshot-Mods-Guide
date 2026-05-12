@@ -21,7 +21,7 @@ All original credits belong to the original mod creators and communities. -> htt
 ![localappdata](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/e08b2020aedd1097d21aa412910f16f169e7f105/screenshots/3%20localappdata.png?raw=true)
 
 6. Navigate to the "Local" folder. Find "Plutonium", then "storage", then T6. This is the folder where you'll be putting the mods.
-   Inside of the t6 folder, create a new folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m".
+   Inside of the t6 folder, create a new folder called "mods" if one doesn't already exist. Make sure it starts with a lowercase "m". ![Plutonium folder](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/40920136aca27acd56a07c546391c28d4c6ff468/screenshots/4%20Plutonium%20folder.png?raw=true) ![Plutonium storage](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/40920136aca27acd56a07c546391c28d4c6ff468/screenshots/5%20Plutonium%20storage.png?raw=true) ![storage t6](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/40920136aca27acd56a07c546391c28d4c6ff468/screenshots/6%20storage%20t6.png?raw=true) ![t6 main folder](https://github.com/Rainy-City1212/BO2-Plutonium-Trickshot-Mods-Guide/blob/40920136aca27acd56a07c546391c28d4c6ff468/screenshots/7%20t6%20main%20folder.png?raw=true) 
 7. Back in the "BO2 Mods" folder on the desktop, open up the extracted "Jiggy V4.3" folder and copy the entire "maps" folder into the Plutonium\storage\t6 folder.
 8. Now navigate to the "mods" folder inside of Plutonium/storage/t6, and paste the extracted "mp_leetin_pub" folder into it.
 9. The mod files are now loaded into the game's Plutonium folder. Load the game like normal.
